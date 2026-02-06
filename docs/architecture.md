@@ -7,3 +7,5 @@ warehouse terminals - тоже сойдет
 OMS
 Analytics
 logistics
+"I assume the Logistics & Routing service integrates with multiple delivery partners to optimize shipping costs and delivery times"
+"What specific caching strategies are used to handle high traffic during sales events?"
